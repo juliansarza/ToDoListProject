@@ -8,11 +8,6 @@
     margin: 0;
     padding: 0;
   }
-
-  div h2 {
-    border:solid black;
-    padding: 0px 0px;
-  }
   
   /* Style the list items */
   ul li {
@@ -37,7 +32,7 @@
   
   /* Darker background-color on hover */
   ul li:hover {
-    background: #ddd;
+    background: #888;
   }
   
   /* When clicked on, add a background color and strike out text */
